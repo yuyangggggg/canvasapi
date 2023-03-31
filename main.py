@@ -7,7 +7,7 @@ API_URL = "https://q.utoronto.ca"
 # API_URL = "https://q.utoronto.ca/api/v1"
 
 # Canvas API key
-API_KEY = "11834~DG5tWcU5IePCZRYR8CBBkmnlBgWcg1Bbkt45hsq7YLS5H0K2MWTTqzs1YIFem9rx"
+API_KEY = ""
 
 
 if __name__ == '__main__':
